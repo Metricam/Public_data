@@ -43,3 +43,11 @@ This repo includes data from public sources on useful for different ML tasks.
   - Target Variable: Attrition
   - Task Type: Binary Classification
   - Description: Employee attrition is the process when stuff is leaving the organization and replacement is not done. This dataset provides information on employee age, department, education, gender, hourly earning rate and other factors that help to predict and understand the reasons behind employee attrition.  Learn More
+
+- [CUSTOMER_ANALYTICS_Telecom_churn.csv](https://www.kaggle.com/blastchar/telco-customer-churn/data)
+  - Dataset Name: Telecom_churn
+  - Domain: Customer Analytics
+  - Size of the Data: 1471 rows, 35 columns
+  - Target Variable: Churn
+  - Task Type: Binary Classification
+  - Description: Customer churn is the process of existing customers stopping using a company's product or service. This dataset provides information on employee product usage as well as demographic information such as gender and age group to help identifying beforehand the customers that are highly probably to leave. Learn More.
