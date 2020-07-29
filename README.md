@@ -47,7 +47,7 @@ This repo includes data from public sources on useful for different ML tasks.
 - [CUSTOMER_ANALYTICS_Telecom_churn.csv](https://www.kaggle.com/blastchar/telco-customer-churn/data)
   - Dataset Name: Telecom_churn
   - Domain: Customer Analytics
-  - Size of the Data: 1471 rows, 35 columns
+  - Size of the Data: 7043 rows, 21 columns
   - Target Variable: Churn
   - Task Type: Binary Classification
   - Description: Customer churn is the process of existing customers stopping using a company's product or service. This dataset provides information on employee product usage as well as demographic information such as gender and age group to help identifying beforehand the customers that are highly probably to leave. Learn More.
