@@ -51,3 +51,11 @@ This repo includes data from public sources on useful for different ML tasks.
   - Target Variable: Churn
   - Task Type: Binary Classification
   - Description: Customer churn is the process of existing customers stopping using a company's product or service. This dataset provides information on employee product usage as well as demographic information such as gender and age group to help identifying beforehand the customers that are highly probably to leave. Learn More.
+  
+- [CUSTOMER_ANALYTICS_Telecom_customer_churn.csv](https://www.kaggle.com/abhinav89/telecom-customer)
+  - Dataset Name: Telecom_customer_churn
+  - Domain: Customer Analytics
+  - Size of the Data: 100k rows, 100 columns
+  - Target Variable: churn
+  - Task Type: Binary Classification
+  - Description: Customer churn is the process of existing customers stopping using a company's product or service. This dataset provides information on employee product usage as well as demographic information such as gender and age group to help identifying beforehand the customers that are highly probably to leave. Learn More.
