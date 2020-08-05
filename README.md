@@ -55,7 +55,7 @@ This repo includes data from public sources on useful for different ML tasks.
   - Dataset Name: German Credit Data
   - Domain: Finance
   - Size of the Data: 1000 rows, 20 columns
-  - Target Variable: Risk
+  - Target Variable: default
   - Task Type: Binary Classification
   - Description: Default rate is one of the key measures that commercial banks aim to reduce. This dataset provides information on bank customers who were given the loan and then experienced or did not experience default. The aim of the analysis is to reveal factors behind default, estimate PD (probability of default) and develop scoring system based on that. Learn More
 
