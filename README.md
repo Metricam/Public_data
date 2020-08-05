@@ -10,14 +10,29 @@ This repo includes data from public sources on useful for different ML tasks.
   - Task Type: Regression
   - Description: Official house price index does not cover the full dynamics and volatility of real estate market. The dataset was developed by scraping top real estate websites in Yerevan to estimate factors affecting house prices and developing a House Price Index for the capital of Armenia. Learn More
 
-- [MARKETING_Customer_Lifetime_Value.xlsx](https://www.kaggle.com/ranja7/vehicle-insurance-customer-data)
+- [MARKETING_Customer_Lifetime_Value.csv](https://www.kaggle.com/ranja7/vehicle-insurance-customer-data)
   - Dataset Name: Customer_Lifetime_Value
   - Domain: Marketing
   - Size of the Data: 9134 rows, 24 columns
   - Target Variable: Customer Lifetime Value
   - Task Type: Regression
   - Description: Customer Lifetime Value is a key metric for measuring company growth. Based on information on customer’s education, employment, income, marital status and other factors this dataset provides the opportunity to estimate and understand the drivers of customer lifetime value. Learn More
+  
+- [MARKET_Car_Prices.csv](https://www.kaggle.com/toramky/automobile-dataset)
+  - Dataset Name: Car_prices
+  - Domain: Market research
+  - Size of the Data: 206 rows, 24 columns
+  - Target Variable: Price
+  - Task Type: Regression
+  - Description: Car prices in the used car market vary based on many factors including but not limited to car attributes and condition indicators. This dataset provides opportunity to learn factors driving car prices and interactions between them . Learn More
 
+- [SOCIAL_Affairs.csv](https://www.kaggle.com/clarkchong/fairs-affairs-dataset)
+  - Dataset Name: Fair's experimental affairs
+  - Domain: Finance
+  - Size of the Data: 601 rows, 9 columns
+  - Target Variable: Affair
+  - Task Type: Regression
+  - Description: This experimental affairs dataset provides the opportunity to estimate time spend in affairs using indirect predictors and conditioned by censored data. It is used to explain the allocation of an individual’s time among work, time spent with a spouse, and time spent with a paramour.Learn More
 
 ## Binary Classification
 - [OPERATIONS_Startup_Success.csv](https://www.kaggle.com/ajaygorkar/startup-analysis)
@@ -35,6 +50,14 @@ This repo includes data from public sources on useful for different ML tasks.
   - Target Variable: Response to targeting
   - Task Type: Binary Classification
   - Description: Default rate is one of the key measures that commercial banks aim to reduce. This dataset provides information on bank customers who were targeted by marketing campaign and, had positive or negative loan history. Based on the information, it is possible to develop targeted marketing strategy for offering financial products to customers likely not to default and likely to accept an offer. Learn More
+  
+- [FINANCE_Credit_Scoring.csv](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+  - Dataset Name: German Credit Data
+  - Domain: Finance
+  - Size of the Data: 1000 rows, 20 columns
+  - Target Variable: Risk
+  - Task Type: Binary Classification
+  - Description: Default rate is one of the key measures that commercial banks aim to reduce. This dataset provides information on bank customers who were given the loan and then experienced or did not experience default. The aim of the analysis is to reveal factors behind default, estimate PD (probability of default) and develop scoring system based on that. Learn More
 
 - [HR_Employee_Attrition.csv](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
   - Dataset Name: Employee_Attrition
