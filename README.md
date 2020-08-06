@@ -34,7 +34,7 @@ This repo includes data from public sources on useful for different ML tasks.
   - Task Type: Regression
   - Description: This experimental affairs dataset provides the opportunity to estimate time spend in affairs using indirect predictors and conditioned by censored data. It is used to explain the allocation of an individual’s time among work, time spent with a spouse, and time spent with a paramour.Learn More
 
-- [COMPASS_scores.csv](https://www.kaggle.com/danofer/compass)
+- [SOCIAL_Compass_Scores.csv](https://www.kaggle.com/danofer/compass)
   - Dataset Name: COMPAS Recidivism Racial Bias
   - Domain: Law, Social Science, Crime, Demographics
   - Size of the Data: 60843 rows, 28 columns
