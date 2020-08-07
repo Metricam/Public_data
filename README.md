@@ -34,6 +34,15 @@ This repo includes data from public sources on useful for different ML tasks.
   - Task Type: Regression
   - Description: This experimental affairs dataset provides the opportunity to estimate time spend in affairs using indirect predictors and conditioned by censored data. It is used to explain the allocation of an individual’s time among work, time spent with a spouse, and time spent with a paramour.Learn More
 
+- [SOCIAL_Compass_Scores.csv](https://www.kaggle.com/danofer/compass)
+  - Dataset Name: COMPAS Recidivism Racial Bias
+  - Domain: Law, Social Science, Crime, Demographics
+  - Size of the Data: 60843 rows, 28 columns
+  - Target Variable: **RawScore**, DecileScore, ScoreText
+  - Task Type: Regression / Multiclass Classification
+  - Description: COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) is a popular commercial algorithm used by judges and parole officers for scoring criminal defendant’s likelihood of reoffending (recidivism). It has been shown that the algorithm is biased in favor of white defendants, and against black inmates, based on a 2 year follow up study (i.e who actually committed crimes or violent crimes after 2 years). The pattern of mistakes, as measured by precision/sensitivity is notable. Learn More.
+
+
 ## Binary Classification
 - [OPERATIONS_Startup_Success.csv](https://www.kaggle.com/ajaygorkar/startup-analysis)
   - Dataset Name: Startup_Success
@@ -82,3 +91,11 @@ This repo includes data from public sources on useful for different ML tasks.
   - Target Variable: churn
   - Task Type: Binary Classification
   - Description: Customer churn is the process of existing customers stopping using a company's product or service. This dataset provides information on employee product usage as well as demographic information such as gender and age group to help identifying beforehand the customers that are highly probably to leave. Learn More.
+
+- [SOCIAL_Adult_Census_Income.csv](https://www.kaggle.com/uciml/adult-census-income)
+  - Dataset Name: Adult Census Income
+  - Domain: Social Science, Demographics, Employement
+  - Size of the Data: 32561 rows, 15 columns
+  - Target Variable: income
+  - Task Type: Binary Classification
+  - This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year. Learn More.
