@@ -22,7 +22,7 @@ This repo includes data from public sources on useful for different ML tasks.
   - Dataset Name: Car_prices
   - Domain: Market research
   - Size of the Data: 206 rows, 24 columns
-  - Target Variable: Price
+  - Target Variable: price
   - Task Type: Regression
   - Description: Car prices in the used car market vary based on many factors including but not limited to car attributes and condition indicators. This dataset provides opportunity to learn factors driving car prices and interactions between them . Learn More
 
