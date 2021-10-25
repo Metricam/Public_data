@@ -99,3 +99,12 @@ This repo includes data from public sources on useful for different ML tasks.
   - Target Variable: income
   - Task Type: Binary Classification
   - This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year. Learn More.
+
+- [IMDB_Dataset_Small.csv](http://ai.stanford.edu/~amaas/data/sentiment/)
+  - Dataset Name: IMDB_Dataset_Small
+  - Domain: Movie review
+  - Size of the Data: 10000 rows, 2 columns
+  - Target Variable: sentiment
+  - Task Type: Sentiment Classification
+  - Description: IMDB dataset having 50K movie reviews for natural language processing or Text analytics. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms. [Learn more](http://ai.stanford.edu/~amaas/data/sentiment/).
+
