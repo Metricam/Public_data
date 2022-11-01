@@ -1,6 +1,23 @@
 # Public_data
 This repo includes data from public sources on useful for different ML tasks.
 
+## Micelleanous
+- ECONOMICS_World_Bank.csv
+  - Dataset Name: World_Bank
+  - Domain: Macroeconomy
+  - Size of the Data: 5806 rows, 31 columns
+  - Target Variable: -
+  - Task Type: -
+  - Description: The data contains several World Bank indicators for different countries for 2000-2021 time period.
+
+- SPORTS_Top_20_football_clubs.csv
+  - Dataset Name: Top_20_football_clubs
+  - Domain: Sport
+  - Size of the Data: 20 rows, 8 columns
+  - Target Variable: -
+  - Task Type: -
+  - Description: The data contains financial information on top 20 football clubs including valuation, revenue etc.
+
 ## Regression
 - OPERATIONS_Yerevan_Real_Estate_Prices.csv
   - Dataset Name: Yerevan_Real_Estate_Prices
