@@ -1,7 +1,7 @@
 # Public_data
 This repo includes data from public sources on useful for different ML tasks.
 
-## Micelleanous
+## Miscellaneous
 - ECONOMICS_World_Bank.csv
   - Dataset Name: World_Bank
   - Domain: Macroeconomy
